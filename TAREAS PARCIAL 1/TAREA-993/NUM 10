@@ -17,3 +17,4 @@ echo "${NOMBRE}> dice: el shell mola"
 ;;
 *)
 echo "A ${NOMBRE} no lo conozco"
+esac
