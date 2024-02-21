@@ -1,0 +1,15 @@
+El shell de Linux interpreta los comandos ingresados por el usuario y los ejecuta, realizando operaciones como la navegación por el sistema de archivos, 
+la manipulación de archivos y directorios, la ejecución de programas, el manejo de procesos y mucho más. Proporciona un entorno interactivo donde los 
+usuarios pueden trabajar eficientemente en la administración y uso del sistema.
+
+ls: Lista los archivos y directorios en el directorio actual.
+cd: Cambia el directorio actual.
+pwd: Muestra la ruta del directorio actual.
+mkdir: Crea un nuevo directorio.
+rm: Elimina archivos o directorios.
+cp: Copia archivos o directorios.
+mv: Mueve o renombra archivos o directorios.
+touch: Crea un nuevo archivo vacío o actualiza la marca de tiempo de uno existente.
+cat: Muestra el contenido de un archivo.
+less: Permite ver el contenido de un archivo de forma paginada.
+head: Muestra las primeras líneas de un archivo.
